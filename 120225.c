@@ -12,3 +12,4 @@ void main(){
 
 void entresemana(){
     printf("lunes\nmartes\nmiercoles\njueves\nviernes")
+}
